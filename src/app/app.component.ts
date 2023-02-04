@@ -47,3 +47,4 @@ export class AppComponent {
   //ngSwitch
   selectedOption = 1;
 }
+ 
